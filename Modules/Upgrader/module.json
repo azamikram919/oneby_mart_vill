@@ -1,0 +1,12 @@
+{
+    "name": "Upgrader",
+    "alias": "upgrader",
+    "core": true,
+    "version": "1.0",
+    "description": "",
+    "keywords": [],
+    "priority": 25,
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
